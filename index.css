@@ -1,0 +1,33 @@
+
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: black;
+  }
+  
+
+  .container {
+    margin-top: 50px;
+  }
+  
+
+  .counter {
+    
+    font-size: 48px;
+    margin: 20px 0;
+  }
+  
+
+  .error {
+    color: red;
+    visibility: hidden;
+  }
+  
+
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
